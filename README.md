@@ -1,6 +1,6 @@
 # mongodb-basics
 
-<img src=".../images/collection.png">
+<img src="README.md/images/collection.png">
 
 <img src="images/database.png">
 
