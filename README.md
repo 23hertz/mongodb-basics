@@ -8,7 +8,7 @@
 
 <img src="https://github.com/23hertz/mongodb-basics/blob/master/images/database_created_by.PNG">
 
-<img src="images/mongodbatlass.png">
+<img src="https://github.com/23hertz/mongodb-basics/blob/master/images/mongodbatlass.PNG">
 
 
 
